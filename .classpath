@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/q59128/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.12.RELEASE/e2529bc44cb1abb8c94df4aa8ebbb8f8e4a3a3c2/spring-context-5.2.12.RELEASE.jar" sourcepath="C:/Users/q59128/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.12.RELEASE/e9ce9e6edef910b8b12932b987d99f24213a228a/spring-context-5.2.12.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JAR/springBeanJar/spring-beans-5.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/springBeanJar/spring-core-5.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/springBeanJar/spring-jcl-5.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/SpringExpressionJar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/SpringExpressionJar/spring-core-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/JAR/SpringExpressionJar/spring-expression-4.3.1.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
